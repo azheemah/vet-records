@@ -14,6 +14,4 @@ public class Animal {
         this.type = type;
         this.dateOfRegistration = dateOfRegistration;
     }
-
-    // Getters and setters omitted for brevity
 }

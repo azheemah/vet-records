@@ -10,6 +10,4 @@ public class Person {
         this.name = name;
         this.contact = contact;
     }
-
-    // Getters and setters omitted for brevity
 }

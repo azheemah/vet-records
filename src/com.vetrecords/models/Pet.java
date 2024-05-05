@@ -7,6 +7,4 @@ public class Pet extends Animal {
         super(id, name, type, dateOfRegistration);
         this.owner = owner;
     }
-
-    // Getters and setters omitted for brevity
 }
